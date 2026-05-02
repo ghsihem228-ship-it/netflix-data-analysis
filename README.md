@@ -1,3 +1,6 @@
+# Live Demo
+
+https://netflix-data-analysis-ebhqbx9izla4znsipkp8hq.streamlit.app
 # Netflix Data Analysis
 
 ## Overview
