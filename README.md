@@ -18,5 +18,5 @@ Exploratory Data Analysis (EDA) on Netflix dataset to uncover trends in content 
 ![Top Countries](top_countries.png)
 ![Content Over Time](content_over_years.png)
 
-## Author
+Author
 Sihem Gherissi
