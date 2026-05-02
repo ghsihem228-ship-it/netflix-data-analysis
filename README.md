@@ -1,8 +1,5 @@
-# Live Demo
-
-https://netflix-data-analysis-ebhqbx9izla4znsipkp8hq.streamlit.app
-# Netflix Data Analysis
-
+## 🚀 Live Demo
+👉 https://netflix-data-analysis-ebhqbx9izla4znsipkp8hq.streamlit.app
 ## Overview
 Exploratory Data Analysis (EDA) on Netflix dataset to uncover trends in content distribution.
 
